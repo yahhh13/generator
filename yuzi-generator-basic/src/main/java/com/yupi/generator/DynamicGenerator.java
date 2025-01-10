@@ -26,6 +26,7 @@ public class DynamicGenerator {
         mainTemplateConfig.setLoop(false);
         mainTemplateConfig.setOutputText("求和结果：");
         doGenerate(inputPath, outputPath, mainTemplateConfig);
+
     }
 
     /**
